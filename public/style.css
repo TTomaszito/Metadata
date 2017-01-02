@@ -1,0 +1,18 @@
+.container{
+  margin-top: 10%;
+  background-color: purple;
+  border-radius: 25px;
+}
+
+.row {
+  background-color: #ffe6ff;
+  margin-top: 10%;
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-bottom: 10%;
+  border-radius: 25px;
+
+}
+.col-lg-12{
+  padding: 10%
+}

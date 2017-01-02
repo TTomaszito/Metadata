@@ -1,8 +1,7 @@
 var express = require('express')
-
 var main = require('./routes/main')
-
 var app = express()
+
 
 app.use(express.static(__dirname +"/public"));
 
